@@ -1,0 +1,22 @@
+{
+  "name": "sum-manhcuongsev",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manhcuongsev/sum-manhcuongsev.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "manhcuongsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manhcuongsev/sum-manhcuongsev/issues"
+  },
+  "homepage": "https://github.com/manhcuongsev/sum-manhcuongsev#readme"
+}
